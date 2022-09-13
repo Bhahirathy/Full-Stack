@@ -1,0 +1,10 @@
+.header{
+    margin-left: 500px;
+    color:blue;
+    font-weight: bolder;
+    font-size: x-large;
+    height:50px;
+    width: 1000px;
+    background-color: white;
+    border:1px solid black;
+}
